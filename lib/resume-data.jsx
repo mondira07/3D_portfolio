@@ -7,8 +7,8 @@ export const resumeData = {
     email: 'mondirachanda7@gmail.com',
     phone: '+91 7318930111',
     location: 'Asansol, West Bengal',
-    linkedin: 'https://linkedin.com/in/mondira',
-    github: 'https://github.com/mondira',
+    linkedin: 'https://linkedin.com/in/mondira-chanda-50214b264',
+    github: 'https://github.com/mondira07',
   },
   about: `Frontend Developer with hands-on experience building high-performance, scalable web applications using React.js, Next.js, and TypeScript. Specialized in transforming Figma designs into pixel-perfect, accessible components, optimizing performance through code splitting and memoization, and integrating real-time data with RESTful APIs and WebSockets. Passionate about clean architecture, reusable component libraries, and delivering experiences that increase user engagement.`,
   experience: [
@@ -90,7 +90,7 @@ export const resumeData = {
         'Event delegation, debounced inputs, and requestAnimationFrame for smooth scrolling.',
         'Graph-based cell dependency system with incremental updates to minimize re-renders.',
       ],
-      link: 'https://github.com/mondira',
+      link: 'https://github.com/mondira07',
     },
   ],
 };
